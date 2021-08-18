@@ -1,4 +1,4 @@
-name: Java CI
+name: CI05
 on: push
 jobs:
   Clone-down:
